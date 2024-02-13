@@ -1,0 +1,1 @@
+INSERT INTO venta (fecha, cliente_id, total) VALUES ('2024-02-06', 1, 50.0);
